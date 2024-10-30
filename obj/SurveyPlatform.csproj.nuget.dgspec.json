@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform\\SurveyPlatform.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.BAL\\SurveyPlatform.BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.BAL\\SurveyPlatform.BAL.csproj",
+        "projectName": "SurveyPlatform.BAL",
+        "projectPath": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.BAL\\SurveyPlatform.BAL.csproj",
+        "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\venka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.DAL\\SurveyPlatform.DAL.csproj": {
+                "projectPath": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.DAL\\SurveyPlatform.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.DAL\\SurveyPlatform.DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.DAL\\SurveyPlatform.DAL.csproj",
+        "projectName": "SurveyPlatform.DAL",
+        "projectPath": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.DAL\\SurveyPlatform.DAL.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform\\SurveyPlatform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform\\SurveyPlatform.csproj",
+        "projectName": "SurveyPlatform",
+        "projectPath": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform\\SurveyPlatform.csproj",
+        "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\venka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.BAL\\SurveyPlatform.BAL.csproj": {
+                "projectPath": "C:\\Users\\venka\\source\\repos\\SurveyGitHubDemo\\SurveyPlatform.BAL\\SurveyPlatform.BAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
